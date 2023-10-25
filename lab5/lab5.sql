@@ -1,6 +1,6 @@
 -- Adminer 4.8.1 MySQL 5.5.5-10.3.32-MariaDB-1:10.3.32+maria~focal dump
 
--- lab 4 Kravchenko Yevhen IKM-222a
+-- lab 5 Kravchenko Yevhen IKM-222a
 
 -- Task 1:
 SELECT region, SUM(population) AS total_population
